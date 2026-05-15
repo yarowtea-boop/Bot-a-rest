@@ -1,4 +1,4 @@
-name = "alliancebot-worker"
+name = "botb"
 main = "worker.mjs"
 compatibility_date = "2026-05-14"
 
